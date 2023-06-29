@@ -1,3 +1,6 @@
+<div align="center"><img src="./standard.gif"/></div>
+
+
 <h1 align="center">Heyy 🙋🏻‍♀️, I'm Khushi Shukla</h1>
  
 - A passionate frontend developer from India.
