@@ -1,7 +1,6 @@
-<div align="center"><img src="./standard.gif"/></div>
+ 
 
-
-<h1 align="center">Heyy 🙋🏻‍♀️, I'm Khushi Shukla</h1>
+<h1 align="center">Heyy, I'm Khushi.</h1>
  
 - A passionate frontend developer from India.
 - I am currently sharpening my skills in React, striving to enhance my proficiency in the framework.
