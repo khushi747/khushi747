@@ -1,9 +1,9 @@
 <h1 align="center">Heyy 🙋🏻‍♀️, I'm Khushi Shukla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+ 
+- A passionate frontend developer from India.
+- I am currently sharpening my skills in React, striving to enhance my proficiency in the framework.
 - 📫 You can reach me at **www.linkedin.com/in/khushi-shukla-8b5928237**
 
-- I am currently sharpening my skills in React, striving to enhance my proficiency in the framework.
 
  
 
