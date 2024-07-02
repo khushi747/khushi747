@@ -14,9 +14,9 @@
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-black?logo=C%2B%2B&logoSize=auto">
-<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-black?logo=Javascript&logoSize=auto">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?logo=python">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-black?logo=C%2B%2B&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-black?logo=Javascript&logoSize=amg">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?logo=python&logoSize=auto">
 <img alt="Static Badge" src="https://img.shields.io/badge/C-black?logo=c">
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?logo=java">
 </p>
