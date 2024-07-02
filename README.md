@@ -14,11 +14,11 @@
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-black?logo=C%2B%2B&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-black?logo=Javascript&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?logo=python&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/C-black?logo=c&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-black?logo=java&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=C%2B%2B&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoSize=amd">
 </p>
 
 
