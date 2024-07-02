@@ -1,16 +1,18 @@
  
 
 <h1 align="center">Heyy, I'm Khushi.</h1>
+<p align="center">Welcome to my GitHub profile! I'm delighted to have you here.</p>
  
-- A passionate frontend developer from India.
-- I am currently sharpening my skills in React, striving to enhance my proficiency in the framework.
+- 👩‍💻 I am a passionate developer, eager to expand my skills and my knowledge.
+- 💻 I am currently sharpening my skills in React.
+- 🎓 Pursuing BTech in Computer Science from Adani University
 - 📫 You can reach me at **www.linkedin.com/in/khushi-shukla-8b5928237**
 
 
  
 
 
-<h2 align="left">Skills:</h2>
+<h2 align="left">Tech Stack:</h2>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
