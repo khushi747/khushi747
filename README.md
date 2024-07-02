@@ -15,27 +15,27 @@
 <h3 align="left">Programming Languages</h3>
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-black?logo=C%2B%2B&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-black?logo=Javascript&logoSize=amg">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?logo=python&logoSize=auto">
-<img alt="Static Badge" src="https://img.shields.io/badge/C-black?logo=c">
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-black?logo=java">
+<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-black?logo=Javascript&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?logo=python&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/C-black?logo=c&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-black?logo=java&logoSize=amd">
 </p>
 
 
 
 <h3 align="left">Development</h3>
 <p align="left">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-black?logo=HTML5">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?logo=CSS">
-<img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-black?logo=Bootstrap">
-<img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-black?logo=TailwindCSS">
-<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-black?logo=MongoDB">
-<img alt="Static Badge" src="https://img.shields.io/badge/Express.JS-black?logo=Express">
-<img alt="Static Badge" src="https://img.shields.io/badge/react-black?logo=React">
-<img alt="Static Badge" src="https://img.shields.io/badge/Node.JS-black?logo=Node">
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?logo=MySQL">
-<img alt="Static Badge" src="https://img.shields.io/badge/%20Postman-black?logo=Postman">
-<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?logo=Git">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-black?logo=HTML5&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?logo=CSS&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-black?logo=Bootstrap&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-black?logo=TailwindCSS&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-black?logo=MongoDB&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Express.JS-black?logo=Express&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/react-black?logo=React&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Node.JS-black?logo=Node&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?logo=MySQL&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/%20Postman-black?logo=Postman&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?logo=Git&logoSize=amd">
 </p>
  
 
