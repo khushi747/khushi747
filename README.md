@@ -25,17 +25,17 @@
 
 <h3 align="left">Development</h3>
 <p align="left">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-black?logo=HTML5&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?logo=CSS&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-black?logo=Bootstrap&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-black?logo=TailwindCSS&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-black?logo=MongoDB&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/Express.JS-black?logo=Express&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/react-black?logo=React&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/Node.JS-black?logo=Node&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?logo=MySQL&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/%20Postman-black?logo=Postman&logoSize=amd">
-<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?logo=Git&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=Bootstrap&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Express.JS-black?style=for-the-badge&logo=Express&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=React&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=Node&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/%20Postman-black?style=for-the-badge&logo=Postman&logoSize=amd">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoSize=amd">
 </p>
  
 
