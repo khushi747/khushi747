@@ -6,7 +6,7 @@
 - 👩‍💻 I am a passionate developer, eager to expand my skills and my knowledge.
 - 💻 I am currently sharpening my skills in React.
 - 🎓 Pursuing BTech in Computer Science from Adani University
-- 📫 You can reach me at <a href="www.linkedin.com/in/khushi-shukla-8b5928237">Linkdin</a>  
+- 📫 You can reach me at <a href="www.linkedin.com/in/khushishukla23">Linkdin</a>  
 
 
 
