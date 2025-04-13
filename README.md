@@ -2,7 +2,7 @@
 
 <h1 align="center">Heyy, I'm Khushi.</h1>
 <p align="center">Welcome to my GitHub profile! I'm delighted to have you here.</p>
- # 💫 About Me:
+💫 About Me:
 🔭 Currently working on full-stack apps with Angular & .NET  <br>👯 Open to collaborating on building web projects  <br>🌱 Learning MERN Stack  <br>💬 Ask me about full-stack dev<br>⚡ Fun fact: I lturn backend logic into smooth UI (and love cold coffee🧊☕ )<br>
 
 
