@@ -3,11 +3,11 @@
 <h1 align="center">Heyy, I'm Khushi.</h1>
 <p align="center">Welcome to my GitHub profile! I'm delighted to have you here.</p>
 💫 About Me:
-<br>🔭 Currently working on full-stack apps with Angular & .NET <br>🌱 Learning MERN Stack  <br>💬 Ask me about full-stack dev <br>🎓 Studying BE Computer Science AI - ML at Adani University, graduating August 2025<br>📫 How to reach me khushishukla.work@gmail.com<br>
+<br>🔭 Currently working on full-stack apps with Angular & .NET <br>🌱 Learning MERN Stack  <br>💬 Ask me about full-stack dev <br>🎓 Studying BE Computer Science AI - ML at Adani University, graduating August 2025<br>📫 How to reach me: khushishukla.work@gmail.com<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khushishukla23/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/khushishukla747) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushishukla.work@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushishukla23/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khushishukla747) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushishukla.work@gmail.com) 
 
 
 
